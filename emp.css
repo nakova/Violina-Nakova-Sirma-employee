@@ -1,0 +1,32 @@
+
+    #header {
+        background: transparent;
+        color : rgb(15, 15, 15);
+    }
+    body {
+        font-family: 'Raleway', sans-serif;
+        background: linear-gradient(to right, #DECBA4, #3E5151);
+    }   
+    #show-calculation {
+        color: #3E5151;
+        font-size: 40px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    #wrong-date {
+        font-style: italic;
+        color:  #3E5151;
+    }
+    i {
+        color : #3E5151;
+    }
+    .lowerFont {
+        font-size: 25px;
+        color :  #3E5151;
+    }
+   nav {
+    background-color: transparent;
+   } 
+   .custom-file-label{
+    background: transparent ;
+   }  
